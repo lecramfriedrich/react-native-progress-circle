@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { StyleSheet, View, ViewPropTypes,I18nManager } from 'react-native'
+import { StyleSheet, View, I18nManager } from 'react-native'
+import { I18nManager, StyleSheet, View } from 'react-native';
 
 // compatability for react-native versions < 0.44
 const ViewPropTypesStyle = ViewPropTypes
